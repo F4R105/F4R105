@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Faraji
 - 👀 I’m interested in front-end development 
-- 🌱 I’m currently learning MERN Stack 
+- 🌱 I’m currently learning MERN Stack and git
 - 🙋 I’m looking to collaborate on Responsive websites 
 - ☎️ You can reach me through my website https://www.kajubufaraji.com
 
