@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Faraji
 - 👀 I’m interested in front-end development 
-- 🌱 I’m currently learning Css and Javascript 
+- 🌱 I’m currently learning MERN Stack 
 - 🙋 I’m looking to collaborate on Responsive websites 
-- ☎️ You can reach me through my website 
+- ☎️ You can reach me through my website https://www.kajubufaraji.com
 
 <!---
 F4R105/F4R105 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
