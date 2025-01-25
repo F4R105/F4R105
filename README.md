@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Faraji
 - 👀 I’m interested in front-end development and ui design
-- 🌱 I’m currently using Inkscape for user interface design, I post my work on behance
 - 🌱 I’m currently learning how to use Figma
 - 🌱 I’m also interested in 3d modelling and animation, I post my work on instagram
 - 🙋 I’m looking to collaborate on building react and react native projects
